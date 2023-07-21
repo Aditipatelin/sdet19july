@@ -8,5 +8,6 @@ public class Welcome{
 		//cloned copy is edited
 		//demo fetch+merge
 		//pull
+		//conflict fetch
 	}
 }
