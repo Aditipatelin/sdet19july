@@ -7,5 +7,6 @@ public class Welcome{
 		//edited @ remote repo itself
 		//cloned copy is edited
 		//demo fetch+merge
+		//pull
 	}
 }
